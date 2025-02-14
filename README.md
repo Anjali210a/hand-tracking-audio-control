@@ -16,4 +16,5 @@ Hand Tracking: MediaPipe or OpenCV for gesture detection.
 Audio Control: Python with PyAudio/Pygame for playback control.
 
 Computer Vision: OpenCV for camera integration.
+
 This project redefines user interaction by providing an accessible, touchless, and intuitive way to control media, enhancing both convenience and accessibility.
