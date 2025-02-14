@@ -6,6 +6,7 @@ Key Features:
 Gesture Recognition: Tracks hand movements for precise audio control.
 Real-Time Interaction: Adjust volume, play/pause, skip, and more with gestures.
 Touchless Control: Ideal for hands-free environments or accessibility needs.
+
 Technologies Used:
 
 Hand Tracking: MediaPipe or OpenCV for gesture detection.
